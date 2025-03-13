@@ -1,0 +1,9 @@
+{
+    "name":"node-server",
+    "description": "A sample Node.js app using express",
+    "dependencies": {
+        "express":"*"
+    },
+    "author": "zai pesto",
+    "license":"deakin"
+}
